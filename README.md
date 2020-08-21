@@ -3,7 +3,7 @@
 ## Welcome!
 Welcome to **Network Data Science with NetworkX and Python**. **NetworkX** provides classes for graphs which allow multiple edges between any pair of nodes. The MultiGraph and MultiDiGraph classes allow you to add the same edge twice, possibly with different edge data. This can be powerful for some applications, but many algorithms are not well defined on such graphs. 
 
-## Course Objectives
+## Project Objectives
 In this project, we are going to focus on **seven** learning objectives:
 
 - Load graphs from Excel spreadsheet files
